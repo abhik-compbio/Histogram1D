@@ -10,4 +10,5 @@ To run code :
 4. Data sets are as follows: dihed-res1-ph1.dat, dihed-res1-ph7.dat
 5. We need python version 3 for this.
 6. Run python3 histogram.py
+A sample output file is attached.
 One can use it for single trajectory also.
