@@ -1,7 +1,9 @@
-# **Histogram of protein Dihedral angle distributions**
+# About
 Protein dihedral angles are one of the major degree of freedom which can show any type of conformational change in protein. Protein dihedral angle distribution is best way to observe this.
 
 Here python code to plot distribution of dihedral angle (along with bash script to run for different residues) is attached. Here we have compared angle distribution of protein Alpha Lactalbumine (PDB Code: 1a4v.pdb) at different ph 1 and ph 7. It is found that Alpha Lactalbumine works in a ph dependent way. Sample datasets are attached.
+
+# Compilation
 
 To run code :
 1. Change bash file (hist.sh). Give residue range. Here we have done it for all (123 residues) residues.
